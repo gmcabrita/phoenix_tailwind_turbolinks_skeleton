@@ -9,6 +9,7 @@ import css from "../css/app.css"
 //
 // Import dependencies
 //
+import "alpinejs"
 import "phoenix_html"
 
 // Import local files

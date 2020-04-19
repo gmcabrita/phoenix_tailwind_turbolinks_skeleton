@@ -14,6 +14,7 @@ module.exports = {
     require("postcss-import"),
     require("tailwindcss"),
     require("autoprefixer"),
+    require('postcss-flexbugs-fixes'),
     ...(process.env.NODE_ENV === "production" ? [purgecss] : [])
   ]
 };
