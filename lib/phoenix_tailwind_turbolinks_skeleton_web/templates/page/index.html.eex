@@ -1,35 +1,26 @@
-<section class="phx-hero">
-  <h1><%= gettext "Welcome to %{name}!", name: "Phoenix" %></h1>
-  <p>A productive web framework that<br/>does not compromise speed or maintainability.</p>
-</section>
+<div>
+  <header class="bg-white shadow">
+    <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
+      <h2 class="text-3xl font-bold leading-tight text-gray-900">
+        Dashboard
+      </h2>
+    </div>
+  </header>
+  <main>
+    <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
+      <div class="px-4 py-6 sm:px-0">
+        <div class="border-4 border-dashed border-gray-200 rounded-lg h-96 p-6 text-justify">
+          <div class="pb-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et diam tincidunt, tincidunt lectus a, placerat ex. Donec hendrerit ex sit amet justo condimentum luctus. Donec libero lectus, molestie porta cursus eget, placerat eu urna. Pellentesque pharetra hendrerit dolor ac feugiat. Nullam pellentesque velit placerat mauris viverra, ac fermentum augue molestie. Nam turpis leo, mollis ornare purus in, posuere vestibulum erat. Fusce posuere, justo vel facilisis pharetra, leo mauris eleifend orci, ac maximus urna quam eget magna. Cras porta libero eu placerat ultrices. Cras consectetur, lectus vel feugiat suscipit, lectus ante sodales felis, ut vulputate dolor neque at nulla. Duis consectetur fringilla nulla at ullamcorper. Morbi in tellus quis lectus scelerisque eleifend. Duis eu lacus ac dui laoreet tempus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris elementum consectetur eleifend. Maecenas pharetra lorem vel ipsum ornare, sed convallis risus ultricies. Cras eget lectus a libero pulvinar laoreet et sit amet metus.</div>
 
-<section class="row">
-  <article class="column">
-    <h2>Resources</h2>
-    <ul>
-      <li>
-        <a href="https://hexdocs.pm/phoenix/overview.html">Guides &amp; Docs</a>
-      </li>
-      <li>
-        <a href="https://github.com/phoenixframework/phoenix">Source</a>
-      </li>
-      <li>
-        <a href="https://github.com/phoenixframework/phoenix/blob/v1.4/CHANGELOG.md">v1.4 Changelog</a>
-      </li>
-    </ul>
-  </article>
-  <article class="column">
-    <h2>Help</h2>
-    <ul>
-      <li>
-        <a href="https://elixirforum.com/c/phoenix-forum">Forum</a>
-      </li>
-      <li>
-        <a href="https://webchat.freenode.net/?channels=elixir-lang">#elixir-lang on Freenode IRC</a>
-      </li>
-      <li>
-        <a href="https://twitter.com/elixirphoenix">Twitter @elixirphoenix</a>
-      </li>
-    </ul>
-  </article>
-</section>
+          <div class="pb-6">Aliquam mattis mi ac sollicitudin pulvinar. Nullam sed varius sapien. Nunc vitae odio vitae tortor tristique pulvinar vestibulum sed ex. Pellentesque iaculis nisi id gravida tempor. Etiam malesuada est orci, a tempor massa ultrices eget. Phasellus in posuere elit. Etiam magna mi, ultricies vitae lacus nec, molestie lacinia nulla. Curabitur nec nisl magna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc mattis ante ut porta maximus. Aliquam varius ante viverra, sodales est finibus, fringilla lorem. Aenean sit amet diam vel tortor aliquam tincidunt eget eget neque. Phasellus viverra lectus maximus dolor convallis tincidunt ac sed lacus. Suspendisse potenti.</div>
+
+          <div class="pb-6">Donec maximus nibh ipsum, in dapibus sem venenatis ut. Proin malesuada malesuada massa ut pharetra. Morbi eget massa ultrices, mattis ante nec, semper elit. Nullam vitae tristique tortor. Ut accumsan orci ipsum, eget pellentesque eros porttitor sed. Etiam lacus urna, vehicula a suscipit a, lacinia a ipsum. Suspendisse potenti.</div>
+
+          <div class="pb-6">Phasellus pellentesque rhoncus nisl vel pharetra. Vestibulum non imperdiet ipsum. Nam ac commodo turpis. Sed id tristique nulla, hendrerit finibus lacus. Morbi lacus ex, mollis a vehicula non, hendrerit in nisl. Etiam pulvinar molestie erat, at sollicitudin sapien mollis eu. Duis in urna odio. Nunc vitae ligula a nisl ullamcorper vehicula sit amet a nunc. Sed cursus sapien libero. Integer tristique orci mauris, vitae tempus massa venenatis non. Nullam eget sapien sed nisi volutpat fermentum. Phasellus eget neque urna.</div>
+
+          <div class="pb-6">Fusce eget lorem ac neque consectetur sodales sit amet ullamcorper tellus. Vivamus aliquet fringilla nunc, fermentum pretium diam egestas at. Etiam pellentesque lacinia aliquam. Sed ut commodo sapien. Ut ut metus mauris. In a sapien quis lectus finibus condimentum eu ac enim. Ut a ullamcorper sapien. Duis faucibus, nibh vel facilisis varius, tellus mauris ultrices nunc, eget dapibus nulla sem in urna. Ut accumsan, magna ac laoreet porta, nisi erat vehicula dui, sed euismod nisi tortor eget enim. Nulla pulvinar dolor et egestas varius. Maecenas feugiat tellus eget ornare ornare. Cras at tincidunt arcu. Duis ac rutrum est. Maecenas quis facilisis ante, quis fermentum lorem. Duis accumsan sapien id ex aliquet, eget tempus lorem convallis.</div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>

@@ -1,0 +1,18 @@
+<div>
+  <header class="bg-white shadow">
+    <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
+      <h2 class="text-3xl font-bold leading-tight text-gray-900">
+        Team
+      </h2>
+    </div>
+  </header>
+  <main>
+    <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
+      <div class="px-4 py-6 sm:px-0">
+        <div class="border-4 border-dashed border-gray-200 rounded-lg h-96 p-6 text-justify">
+          <div class="pb-6">Aliquam mattis mi ac sollicitudin pulvinar. Nullam sed varius sapien. Nunc vitae odio vitae tortor tristique pulvinar vestibulum sed ex. Pellentesque iaculis nisi id gravida tempor. Etiam malesuada est orci, a tempor massa ultrices eget. Phasellus in posuere elit. Etiam magna mi, ultricies vitae lacus nec, molestie lacinia nulla. Curabitur nec nisl magna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc mattis ante ut porta maximus. Aliquam varius ante viverra, sodales est finibus, fringilla lorem. Aenean sit amet diam vel tortor aliquam tincidunt eget eget neque. Phasellus viverra lectus maximus dolor convallis tincidunt ac sed lacus. Suspendisse potenti.</div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>

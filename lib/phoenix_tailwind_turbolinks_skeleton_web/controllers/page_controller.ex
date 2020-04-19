@@ -4,4 +4,8 @@ defmodule PhoenixTailwindTurbolinksSkeletonWeb.PageController do
   def index(conn, _params) do
     render(conn, "index.html")
   end
+
+  def team(conn, _params) do
+    render(conn, "team.html")
+  end
 end
