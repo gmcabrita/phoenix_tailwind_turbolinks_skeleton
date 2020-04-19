@@ -81,6 +81,8 @@ Turbolinks.start();
 
 Copy [`lib/phoenix_tailwind_turbolinks_skeleton_web/plugs/turbolinks.ex`](lib/phoenix_tailwind_turbolinks_skeleton_web/plugs/turbolinks.ex) to your app, don't forget to rename the module to the one your app uses.
 
+If you want to look more into Turbolinks usage see [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com/blob/master/assets/app/app.js).
+
 ## Inter font
 
 Add `<link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet">` to your layout(s).
